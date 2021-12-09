@@ -122,6 +122,7 @@ body::before {
   height: calc(var(--loading-spinner__block-size) * 3);
   perspective: calc(var(--loading-spinner__block-size) * 3);
   animation: animation__loading-spinner var(--loading-spinner__animation-length) ease-in-out infinite;
+  will-change: transform;
 }
 
 /* Loading spinner block */
