@@ -20,7 +20,7 @@ Beautifully animated, not focused on accessibility. Just a bit of experimentatio
 
 ### Images
 
-- Battlefield 2042: Wallpaper
+- Battlefield 2042: Wallpaper<br>
   https://wall.alphacoders.com/big.php?i=1151022
-- Battlefield 2042: Logo
+- Battlefield 2042: Logo<br>
   https://de.wikipedia.org/wiki/Datei:Battlefield_2042_logo_-_black_color_version.svg
