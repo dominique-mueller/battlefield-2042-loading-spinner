@@ -2,17 +2,17 @@
 
 # Battlefield 2042: Loading Spinner
 
-**A recreation of the Battlefield 2042 loading spinner in HTML / CSS / JavaScript.**
+**A recreation of the Battlefield 2042 loading spinner in HTML / CSS.**
 
 </div>
 
 <br><br>
 
-Beautifully animated, not focused on accessibility. Just a bit of experimentation!
+Beautifully animated, no JavaScript, not focused on accessibility. Just a bit of experimentation!
 
 **Preview:**
 
-![Preview](./docs/preview.png)
+![Preview](./docs/preview.jpg)
 
 <br><br>
 

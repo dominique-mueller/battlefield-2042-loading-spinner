@@ -1,6 +1,6 @@
 {
   "name": "battlefield-2042-loading-spinner",
-  "description": "A recreation of the Battlefield 2042 loading spinner in HTML / CSS / JavaScript.",
+  "description": "A recreation of the Battlefield 2042 loading spinner in HTML / CSS.",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
